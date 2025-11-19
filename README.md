@@ -1,6 +1,6 @@
 # devicons
 
-[devicons.railway.app](https://devicons.railway.app)
+[devicons.railway.app](https://devicons.klutch.sh)
 
 List of common developer related icons with an "I'm feeling lucky" API route that returns the best matching icon for an input query.
 
