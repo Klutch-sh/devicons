@@ -14,8 +14,8 @@ export const GET: RequestHandler = async ({ params, url, request }) => {
       return new Response('Resource not found', { status: 404 });
     }
 
-    // By default fallback to railway logo
-    icon = searchIcons('Railway', false)[0];
+    // By default fallback to Klutch.sh logo
+    icon = searchIcons('Klutch', false)[0];
   }
 
   const file = getVariant(icon, variant);
