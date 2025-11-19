@@ -117,6 +117,7 @@ export const icons: Icon[] = [
   i("JavaScript", { [c]: "javascript.svg" }, ["expressjs"]),
   i("JQuery", { [c]: "jquery.svg" }),
   i("Jupyter", { [c]: "jupyter.svg" }),
+  i("Klutch", { [c]: "klutch.png" }),
   i("Kotlin", { [c]: "kotlin.svg" }),
   i("KrakenJS", { [c]: "krakenjs.svg" }),
   i("Ktor", { [c]: "ktor.svg" }),
