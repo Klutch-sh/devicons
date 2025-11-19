@@ -17,11 +17,3 @@ To build locally you can just
 yarn
 yarn dev
 ```
-
-## 🚀 Deploying
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fdevicons)
-
-## Licensing
-
-These icons were taken from the original source website whenever possible. If you are the owner of one of these languages/websites and do not want your icon listed on devicons, please reach out and we will take it down immediately.
